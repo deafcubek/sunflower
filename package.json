@@ -1,0 +1,23 @@
+{
+  "name": "sunflower",
+  "version": "1.0.0",
+  "description": "semillas de girasol",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deafcubek/sunflower.git"
+  },
+  "author": "se7en",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deafcubek/sunflower/issues"
+  },
+  "homepage": "https://github.com/deafcubek/sunflower#readme",
+  "dependencies": {
+    "n": "^8.0.1"
+  }
+}
